@@ -1,0 +1,30 @@
+.table-row {
+  background-color:#082032;
+  display:flex;
+  margin:auto;
+  height:39px;
+  width:268.05px;
+}
+
+.item {
+  color:white;
+  display:flex;
+  margin:10px;
+  font-size:15px;
+  overflow:hidden;
+}
+
+.col-btn {
+  background-color:transparent;
+  border:none;
+  font-family: monospace;
+  height:39px;
+  font-size:20px;
+  color:white;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.item > button, .item > input {
+  width:50%;
+}

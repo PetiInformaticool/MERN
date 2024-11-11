@@ -1,0 +1,32 @@
+#ez-button > button {
+  background-color:transparent;
+    font-family: monospace;
+  border:none;
+  height:30px;
+  font-size:20px;
+  color:white;
+  margin-left:10px;
+  margin-right:10px;
+}
+.search-container {
+  background-color:#082032;
+  position:relative;
+  display:inline-block;
+  margin:auto;
+}
+#search-bar>input {
+  background:transparent;
+  border:none;
+  color:white;
+  font-size:15px;
+  margin:10px;
+  width:200px;
+}
+#search-bar {
+  margin-top:10px;
+  margin-bottom:10px;
+}
+#ez-button {
+  margin-top:10px;
+  margin-bottom:10px;
+}
